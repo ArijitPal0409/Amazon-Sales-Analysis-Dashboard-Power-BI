@@ -64,8 +64,7 @@ Order fulfillment and return metrics
 
 
 
-## 🔗 Data Source
-[ https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights ] 
+
 ## 📌 Author
 
 Arijit Pal
